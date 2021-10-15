@@ -1,0 +1,18 @@
+1. Add a "5 Day Temperatures" page to your application that fetches and
+displays the 5 day forecast for the user's current location. 
+
+2. Display all of the
+3-hourly forecasts within this 5 day period. See
+https://www.openweathermap.org/forecast5 for relevant documentation.
+
+-----3. The user should be able to access this "5 Day Forecast" page from the "Current
+Temperature" page. You may choose the navigation pattern used. For example,
+both pages could be top-level tabs within your application.----
+
+
+4. Each row in the list should display:
+● The forecast date and time,
+● The forecast temperature in Fahrenheit, and
+● The OpenWeatherMap icon that represents the forecast weather
+conditions. See https://openweathermap.org/weather-conditions for
+relevant documentation.
