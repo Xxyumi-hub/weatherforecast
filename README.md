@@ -1,3 +1,7 @@
+A React application that gets the current location of the user via JS Geolocation and fetches weather using the open weather API
+
+<img src="https://github.com/Xxyumi-hub/weatherforecast/blob/master/B7E4DA31-67C8-40DD-AE5F-D7C0FA98BBC5_1_105_c.jpeg" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
